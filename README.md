@@ -36,4 +36,35 @@ Save the Python file as:
 ```python
 calculator.py
 
+Step 3:
+
+Open terminal or PyCharm and run:
+
+python calculator.py
+Example Output
+=== Simple Calculator ===
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+
+Enter your choice: 1
+Enter first number: 10
+Enter second number: 5
+
+Result: 15
+Learning Outcome
+
+This project helps in learning:
+
+Python functions
+If-else conditions
+User input handling
+Error handling using try-except
+Basic problem-solving skills
+Author
+
+Your Name
+
 
