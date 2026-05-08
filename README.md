@@ -37,6 +37,3 @@ Save the Python file as:
 calculator.py
 
 
-
-Author
-Saloni Kumari
